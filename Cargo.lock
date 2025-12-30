@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "bubble-sort-v11"
+name = "bubble-sort"
 version = "0.1.0"
