@@ -1,2 +1,1 @@
-# bubble-sort-v1
-Bubble Sorting by Rust v1
+# Bubble Sort by Rust Programming Language.
